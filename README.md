@@ -1,5 +1,5 @@
 # rock_paper_scissors
-This game is build on python shell. 
+This game is built on python shell. 
 rock_paper_scissors is the one of the most famous games.
 
 # Game analysis
